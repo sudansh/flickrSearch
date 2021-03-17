@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flickr Search</string>
+
+    <string name="error_no_network">Please check your connection</string>
+    <string name="error_no_result">Sorry. Empty Results</string>
+    <string name="search_hint">Search</string>
+</resources>
